@@ -1,5 +1,5 @@
 # BBNLab
-A Matlab code to implement the BBN calculation in cosmology
+A Matlab code to implement the BBN calculation in cosmology.
 
 BBNLab.m is the main function.
 
